@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayankgaur0405/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/mayankgaur0405/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Sliding Window
 |  |
 | ------- |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/mayankgaur0405/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/mayankgaur0405/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/mayankgaur0405/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
