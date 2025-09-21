@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayankgaur0405/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2023-design-movie-rental-system](https://github.com/mayankgaur0405/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/mayankgaur0405/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Dynamic Programming
 |  |
@@ -55,4 +56,20 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/mayankgaur0405/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Hash Table
+|  |
+| ------- |
+| [2023-design-movie-rental-system](https://github.com/mayankgaur0405/Leetcode/tree/master/2023-design-movie-rental-system) |
+## Design
+|  |
+| ------- |
+| [2023-design-movie-rental-system](https://github.com/mayankgaur0405/Leetcode/tree/master/2023-design-movie-rental-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2023-design-movie-rental-system](https://github.com/mayankgaur0405/Leetcode/tree/master/2023-design-movie-rental-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2023-design-movie-rental-system](https://github.com/mayankgaur0405/Leetcode/tree/master/2023-design-movie-rental-system) |
 <!---LeetCode Topics End-->
